@@ -35,5 +35,6 @@ public class PelisCloud {
     public String getSinopsis() {
         return sinopsis;
     }
+    
 }
 
